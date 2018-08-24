@@ -1,4 +1,4 @@
-# Bulnk Image Optimize or Compress - Console Client
+# Bulk Image Optimize or Compress - Console Client
 
 
 This project is based on https://github.com/madskristensen/ImageOptimizer by Mads Kristensen, which is basically Visual Studio Extension, 
