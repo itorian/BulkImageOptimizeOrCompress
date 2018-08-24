@@ -5,8 +5,8 @@ This project is based on https://github.com/madskristensen/ImageOptimizer by Mad
 which enables developers to optimize/compress images in Visual Studio IDE.
 
 ## Use case ##
-This extension works well, but this solution will allow you to bulk compress or optimize images inside any folder. You may have folder inside folder with images, this solution works for this case too.
+This solution will allow you to bulk compress or optimize images inside any folder. You may have folder inside folder with images, this solution works for this case too.
 
-I have used it to bulk compress images on production envirement. 
+Production Tested: I have used it to bulk compress images on production envirement. I noticed that Seqrite antivirus will prompt you to allow this software when you compressing, this is because it operates on files directly.
 
-Download Setup https://github.com/itorian/BulkImageOptimizeOrCompress/blob/master/ImageCompressorConsole/dist/version-1.zip
+Download Setup: https://github.com/itorian/BulkImageOptimizeOrCompress/blob/master/ImageCompressorConsole/dist/version-1.zip
